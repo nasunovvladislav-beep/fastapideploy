@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   api:
-    image: vladislavich/fastapi-app:latest 
+    image: vladislavich96/fastapi-app:latest 
     container_name: fastapi-app
     ports:
       - "8000:8000"
